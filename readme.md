@@ -37,7 +37,7 @@ Cоздать небольшое приложение на базе Spring Boot.
 ### Запуск проекта
 java -jar shop_test-EasyBot-0.0.1-SNAPSHOT.jar
 
-### Приложена postman коллекция со всеми доступными операциями для user и admin
+### Приложена postman коллекция со всеми доступными операциями
 EasyBot_test_task.postman_collection.json
 
 ### Сервер
