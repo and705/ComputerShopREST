@@ -10,8 +10,7 @@ public class Laptop extends Product {
 
     private int screenSize;
 
-    public Laptop(int screenSize) {
-        this.screenSize = screenSize;
+    public Laptop() {
     }
 
     public Laptop(String serialNumber, String manufacturer, double price, int quantity, int screenSize) {

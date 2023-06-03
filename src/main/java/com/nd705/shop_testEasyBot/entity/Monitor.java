@@ -9,8 +9,8 @@ import lombok.NoArgsConstructor;
 public class Monitor extends Product {
     private double diagonal;
 
-    public Monitor(double diagonal) {
-        this.diagonal = diagonal;
+    public Monitor() {
+
     }
 
     public Monitor(String serialNumber, String manufacturer, double price, int quantity, double diagonal) {
